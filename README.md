@@ -229,7 +229,6 @@ The project can be further improved by:
 **Asmitha Mohan Raj**
 
 B.Sc. Information Technology
-MVLU
 Academic Year: 2026–2027
 
 ---
